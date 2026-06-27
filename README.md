@@ -14,9 +14,7 @@ vibol-khan-portfolio/
 
 ## How to Run
 
-1. Extract the ZIP file.
-2. Open `index.html` in your browser.
-3. Edit the content in `index.html` to update your profile, projects, or contact details.
+1. Open `index.html` in your browser.
 
 ## Sections Included
 
